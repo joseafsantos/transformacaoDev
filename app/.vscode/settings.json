@@ -1,0 +1,13 @@
+{
+    "code-runner.executorMap": {
+        "javascript": "bun",
+        "typescript": "bun"
+    },
+    "material-icon-theme.folders.associations": {
+        "core":"rules",
+        "adapters": "pipe",
+        "external": "tools",
+        "curso": "admin"
+    },
+    "workbench.colorTheme": "Default Dark Modern"
+}
